@@ -1,6 +1,4 @@
 call plug#begin('~/.vim/plugged')
-Plug 'justmao945/vim-clang'
-Plug 'preservim/nerdtree'
 "airline
 Plug 'vim-airline/vim-airline'
 "colorschemes
@@ -26,6 +24,5 @@ let mapleader = ","
 inoremap <C-v> <ESC>"+p
 vnoremap <C-c> "+y
 vnoremap <C-d> "+d
-nmap <C-m> :NERDTreeToggle<CR>
 set mouse=a
 set encoding=utf8
