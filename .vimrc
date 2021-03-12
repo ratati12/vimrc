@@ -1,9 +1,9 @@
-call plug#begin('~/.vim/plugged')
-"airline
-Plug 'vim-airline/vim-airline'
-"colorschemes
-Plug 'morhetz/gruvbox'
-call plug#end()
+//call plug#begin('~/.vim/plugged')
+//"airline"
+//Plug 'vim-airline/vim-airline'
+//"colorschemes"
+//Plug 'morhetz/gruvbox'
+//call plug#end()
 
 
 
